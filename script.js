@@ -2,7 +2,7 @@ var date= new Date();
 
 
 
-if (date.getMonth() === 9)    {
+if (date.getMonth() === 11)    {
 
 var snow=document.querySelector('.one');
 snow.className = 'two';
