@@ -1,0 +1,146 @@
+.one,.three,.five,.seven,.nine,.eleven,.thirteen,.fifteen { display:none;}
+
+
+.two {
+        position: relative;
+        left: 5%;
+        overflow-y: hidden;
+        overflow-x: hidden;
+        animation-name: sna;
+        animation-iteration-count:infinite;
+        animation-duration: 30s;
+        
+}
+
+
+@keyframes sna { 
+                
+                from { top: 0px;}
+                to {top: 750px;}
+               
+}
+
+
+
+
+
+.four {
+        position: relative;
+        overflow-y: hidden;
+        overflow-x: hidden;
+        top:10px;
+        left: 20%;
+        animation-name: snb;
+        animation-iteration-count:infinite;
+        animation-duration: 25s;
+}
+
+
+@keyframes snb {
+                from { top: 10px;}
+                to {top: 750px;}
+}
+
+.six {
+        position: relative;
+        overflow-y: hidden;
+        overflow-x: hidden;
+        top:5px;
+        left: 30%;
+        animation-name: snc;
+        animation-iteration-count:infinite;
+        animation-duration: 20s;
+}
+
+
+@keyframes snc {
+                from { top: 5px;}
+                to {top: 750px;}
+}
+
+.eight {
+        position: relative;
+        overflow-y: hidden;
+        overflow-x: hidden;
+        top30px;
+        left: 40%;
+        animation-name: snd;
+        animation-iteration-count:infinite;
+        animation-duration: 20s;
+}
+
+
+@keyframes snd {
+                from { top: 30px;}
+                to {top: 750px;}
+}
+
+.ten {
+        position: relative;
+        overflow-y: hidden;
+        overflow-x: hidden;
+        top: 15px;
+        left: 50%;
+        animation-name: sne;
+        animation-iteration-count:infinite;
+        animation-duration: 25s;
+}
+
+
+@keyframes sne {
+                from { top: 15px;}
+                to {top: 750px;}
+}
+
+.twelve {
+        position: relative;
+        overflow-y: hidden;
+        overflow-x: hidden;
+        top: 10px;
+        left: 60%;
+        animation-name: snf;
+        animation-iteration-count:infinite;
+        animation-duration: 20s;
+}
+
+
+@keyframes snf {
+                from { top: 10px;}
+                to {top: 750px;}
+}
+
+
+.fourteen {
+        position: relative;
+        overflow-y: hidden;
+        overflow-x: hidden;
+        top: 10px;
+        left: 70%;
+        animation-name: sng;
+        animation-iteration-count:infinite;
+        animation-duration: 25s;
+}
+
+
+@keyframes sng {
+                from { top: 10px;}
+                to {top: 750px;}
+}
+
+
+.sixteen {
+        position: relative;
+        overflow-y: hidden;
+        overflow-x: hidden;
+        top: 10px;
+        left: 80%;
+        animation-name: snh;
+        animation-iteration-count:infinite;
+        animation-duration: 25s;
+}
+
+
+@keyframes snh {
+                from { top: 10px;}
+                to {top: 750px;}
+}
