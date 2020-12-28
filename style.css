@@ -1,5 +1,10 @@
 .one,.three,.five,.seven,.nine,.eleven,.thirteen,.fifteen { display:none;}
 
+body {
+        background-color: red;
+        opacity: 0.6;
+}
+
 
 .two {
         position: relative;
